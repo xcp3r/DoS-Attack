@@ -11,6 +11,7 @@ Note: _This repository should be used for educational purposes only. Usage of fi
 ### Make sure that you have installed [Python](https://www.python.org/downloads/) and [git](https://www.atlassian.com/git/tutorials/install-git)
 
 <br />
+
 ### For Linux
 sudo git clone https://github.com/xcp3r/DoS-Attack
 
@@ -21,7 +22,7 @@ chmod +x dos-attack.py
 python3 dos-attack.py
 
 <br />
-
+### For Windows
 git clone https://github.com/xcp3r/DoS-Attack
 
 cd DoS-Attack
