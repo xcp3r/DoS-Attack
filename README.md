@@ -12,7 +12,7 @@ Note: _This repository should be used for educational purposes only. Usage of fi
 
 <br />
 
-### For Linux
+### For Linux based systems
 sudo git clone https://github.com/xcp3r/DoS-Attack
 
 cd DoS-Attack
@@ -23,7 +23,7 @@ python3 dos-attack.py
 
 <br />
 
-### For Windows
+### For Windows based systems
 git clone https://github.com/xcp3r/DoS-Attack
 
 cd DoS-Attack
