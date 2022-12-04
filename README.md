@@ -7,11 +7,11 @@ In which the perpetrator seeks to make a machine or network resource unavailable
 
 Note: _This repository should be used for educational purposes only. Usage of files in this repository for any other purpose might cause you legal issues, even though the provided script is very simple. It is advised to follow the instructions._
 
-# Installation on Linux based systems
-### Make sure that you have installed [Python](https://www.python.org/downloads/) and [git](https://www.atlassian.com/git/tutorials/install-git#linux)
+# Installation
+### Make sure that you have installed [Python](https://www.python.org/downloads/) and [git](https://www.atlassian.com/git/tutorials/install-git)
 
 <br />
-
+### For Linux
 sudo git clone https://github.com/xcp3r/DoS-Attack
 
 cd DoS-Attack
@@ -20,5 +20,12 @@ chmod +x dos-attack.py
 
 python3 dos-attack.py
 
+<br />
+
+git clone https://github.com/xcp3r/DoS-Attack
+
+cd DoS-Attack
+
+py dos-attack.py
 
 ![capture](https://user-images.githubusercontent.com/85003075/205497216-1104af96-ca06-49db-ae43-7354db22f895.png)
